@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head><h1>Mis aficiones</h1>
+	<hr/>
+		<title>Mi primera pagina web
+		</title>
+	</head> 
+	<body>
+			<p>Sin un orden particular, mis <b>aficiones</b> son:</p>
+				<ul><li>El cine</li>
+				<li>El deporte</li>
+					<ul><li>natación</li>
+					<li>baloncesto</li></ul>
+				<li>La musica</li></ul>
+			<p>La musica que mas me gusta es <i>(en orden de preferencia):</i>
+				<ol><li>el rock</li>
+				<li>el jazz</li>
+				<li>la musica clasica</li></ol>
+	</body>
+</html>

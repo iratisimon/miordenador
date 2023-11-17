@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head> 
+		<title>Mi primera pagina web
+		</title>
+	</head> 
+	<body>
+		<h1>Ciudades del mundo</h1>
+			<ul><li>Argentina</li>
+				<ol><li>Buenos Aires</li>
+				<li>Bariloche</li></ol>
+			<li>Uruguay</li>
+				<ol><li>Montevideo</li>
+				<li>Punta del Este</li></ol></ul>
+	</body>
+</html>

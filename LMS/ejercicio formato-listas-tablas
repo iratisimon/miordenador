@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head> <h1>Planning por las tardes</h1>
+	<h2>Próximas 3 semanas</h2>
+		<style> 
+				table, th, td {
+					border: 1px solid black;
+				}
+		</style>
+		<title> Mi primera pagina web
+		</title>
+	</head> 
+	<body>
+		<table>
+			<tr>
+				<th></th>
+				<th>Lunes</th>
+				<th>Martes</th>
+				<th>Miercoles</th>
+				<th>Jueves</th>
+				<th>Viernes</th>
+			</tr>
+			<tr>
+				<td><b>Semana 1</b></td>
+				<td rowspan="3">Curso HTML</td>
+				<td colspan="3">Ir a buscar a Ane al cole</td>
+				<td>Libre</td>
+				
+			</tr>
+			<tr>
+				<td><b>Semana 2</b></td>
+				<td>Ir al super <ul>
+					<li>leche</li>
+						<ul><li>entera</li>
+						<li>desnatada</li></ul>
+					<li><del>yogures</del></li>
+					<li>algo de <i>fruta</i></li>
+					<li>pechugas de pollo</li></ul>
+				<td><i>Revisar ejercicios</i></td>
+				<td rowspan="2" colspan="2">Libre</td>
+				
+			</tr>
+			<tr>
+				<td><b>Semana 3</b></td>
+				<td>Estudiar <b><mark>Programación</mark></b></td>
+				<td>Llamar a: <ol>
+					<li>Euskaltel</li>
+					<li>Maite</li></ol></td>
+			</tr>
+	</body>
+</html>

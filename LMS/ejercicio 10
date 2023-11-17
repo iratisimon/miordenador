@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Mi primera pagina web
+		</title>
+	</head> 
+	<body>
+		Vamos a ponerle un sub&iacute;ndice<sub>sub</sub>
+		<br/>Vamos a ponerle un superíndice<sup>sup</sup> 
+		<br/><small>Hace el texto mas pequeño</small>
+		<br/>Defino texto mas preformateado:
+		<pre>Este texto está preformateado</pre>
+		Mi dirección es:
+		<address>C/Gran Vía 85 5ºA</address>
+		Descartes dijo: 
+			<blockquote>Pienso, luego existo.</blockquote>
+		El <cite>Gernica</cite> de Picasso, pintado en 1937
+		<br/><bdo dir ="rtl">Le damos la vuelta al texto</bdo>
+		<br/>Esta palabra es importante: <strong>vacaciones</strong>
+		
+		
+	</body>
+</html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head><h1>Enlaces a páginas del mismo sitio web</h1>
+	<hr/>
+		<title>Mi primera pagina web
+		</title>
+	</head> 
+	<body>
+		<a href="#abajo" id="inicio">Ir a la primera página</a>
+		<br/><a href="#segunda">Ir a la segunda página</a>
+		<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+		<h1 id="abajo">Esta es la primera página de contenidos.</h1>
+		<a href="#inicio">Inicio</a>
+		<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+		<h1 id="segunda">Ésta es la segunda página de contenidos.</h1>
+		<a href="#inicio">Inicio</a>
+		<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+	</body>
+</html>

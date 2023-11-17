@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Mi primera pagina web
+		</title>
+	</head> 
+	<body>
+		<b>Esto es letra negrita</b>
+		<br/><i>Esto es letra cursiva</i>
+		<br/><del>Esto aparece tachado</del>
+		<br/>Este texto no tiene efecto 
+		
+	</body>
+</html>

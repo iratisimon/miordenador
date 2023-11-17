@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head><h1>Direcciones de Internet</h1>
+	<hr/>
+	<h3>FP EUSKADI</h3>
+		<title>Mi primera pagina web
+		</title>
+	</head> 
+	<body>
+		<ul><li><a href="hola.pptx">Pulse aquí para descargar el fichero</a></li>
+		<li><a href ="perro2.jpg">Pulse aquí para descargar la imagen</a></li></ul>
+	</body>
+</html>

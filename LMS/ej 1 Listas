@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head> 
+		<title>Mi primera pagina web
+		</title>
+	</head> 
+	<body>
+		<h1>Lista sin ordenar con cuadraditos</h1>
+			<ul style="list-style-type:square"><li>Coffe</li>
+			<li>Tea</li>
+			<li>Milk</li></ul>
+		<h1>Lista sin ordenar con círculos</h1>
+		<ul style="list-style-type:circle"><li>Coffe</li>
+			<li>Tea</li>
+			<li>Milk</li></ul>
+		<h1>Lista ordenada con números romanos</h1>
+		<ul type=I><li>Coffe</li>
+			<li>Tea</li>
+			<li>Milk</li></ul>
+		<h1>Lista ordenada con letras mayúsculas</h1>
+		<ul type=A><li>Coffe</li>
+			<li>Tea</li>
+			<li>Milk</li></ul>
+	</body>
+</html>

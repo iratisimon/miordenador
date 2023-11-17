@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head> <h1>LISTADO GENERAL</h1>
+	<hr/>
+	<h2>ÍNDICE</h2>
+		<title>Mi primera pagina web
+		</title>
+	</head> 
+	<body>
+		<ol >
+			<li><picture><img src="frutas.png"/></picture></li>
+			<li><picture><img src="Animales.png"/></picture></li>
+			<li><picture><img src="personas.png"/></picture></li>
+			<li><picture><img src="edificios.png"/></picture></li>
+			<li><picture><img src="google.png"/></picture></li>
+		</ol>
+	</body>
+</html>

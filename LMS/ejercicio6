@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head> <h1>Menú de la casa</h1>
+		<title>Mi primera pagina web
+		</title>
+	</head> 
+	<body>
+		<ol start type=A><li>Sopa castellana</li>
+		<li>Bacalao al Pil-Pil</li>
+		<li>Tortilla</li>
+			<ol start type=a><li>De patatasl</li>
+			<li>De atún</li>
+			<li>De jamón</li>
+			<li>De chorizo</li></ol>
+		<li>Ternera asada</li>
+		<li>Besugo al horno</li>
+		<li>Ternera encebollada</li></ol>
+	</body>
+</html>

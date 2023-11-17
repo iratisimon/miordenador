@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Mi primera pagina web
+		</title>
+	</head> 
+	<body>
+		<p>La <b>exploración espacial</b> designa los esfuerzos del hombre en estudiar el 
+		<br/>espacio y sus astros desde el punto de vista científico y de su explotación
+		<br/>económica.Estos esfuerzos pueden involucrar tanto seres humanos viajando
+		<br/>en naves espaciales como satélites con recursos de telemetría o sondas
+		<br/>teleguiadas enviadas a otros planetas (orbitando o aterrizando en la superficie
+		<br/>de estos cuerpos celestes).</p>
+		<p>Las personas que pilotan naves espaciales, o son pasajeros en ellas, se llaman
+		<br/>astronautas (en Rusia: <i>cosmonautas</i>; en China: <i>taikonautas</i>). Técnicamente se
+		<br/>considera astronauta a todo aquel que emprenda un vuelo sub-orbital (sin
+		<br/>entrar en órbita) u orbital a como mínimo 100 km de altitud (considerado el
+		<br/>límite externo de la atmósfera).</p>
+		<p>El cielo siempre ha atraído la atención y los sueños del hombre. Ya en 1634
+		<br/>se publicó la que se considera primera novela de ciencia ficción, <i>Somnium</i>, de
+		<br/><b>Johannes Kepler</b>, que narra un hipotético viaje a la Luna. Más tarde, en
+		<br/>1865, en una famosa obra de ficción titulada <i>"De la Terre a la Lune"</i>, <b>Julio
+		<br/>Verne</b> escribe sobre un grupo de hombres que viajó hasta la Luna usando un
+		<br/>gigantesco cañón.</p>
+		<p>En Francia, <b>Georges Melies</b>, uno de los pioneros del cine, tomaba la novela
+		<br/>de Verne para crear <i>"Le voyage dans la Lune"</i> (1902), una de las primeras
+		<br/>películas de ciencia ficción en la que describía un increíble viaje a la Luna. En
+		<br/>obras como <i>"The War of the Worlds"</i> (1898) y <i>"The First Men in The Moon"</i> 
+		<br/>(1901), <b>Herbert George Wells</b> también se concibieron ideas de exploración 
+		<br/>del espacio y de contacto con civilizaciones extraterrestres.</p>
+	</body>
+</html>

@@ -1,0 +1,39 @@
+body {
+    background-image: url("../images/fondo.jpeg");
+}
+
+img {
+    width: 220px;
+    height: 200px; /* Añadido 'px' para especificar las unidades de medida */
+}
+
+/* CSS Irati */
+.text {
+    width: 448px;
+    left: 0;
+    top: 17rem;
+    position: absolute;
+    font-size: 1.5vw;
+    color: black;
+    opacity: 0;
+    transition: opacity 0.5s;
+}
+
+.row {
+    width: 80%;
+    display: flex;
+}
+
+.image {
+    position: relative;
+    width: 100%; /* Cambiado de 80% a 100% */
+    height: auto;
+}
+
+.image:hover .text {
+    opacity: 1; /* Set opacity to 1 on hover */
+}
+
+.image:hover {
+    opacity: 0.8; /* Set opacity on hover for the image */
+}

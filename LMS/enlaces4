@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head><h1>Direcciones de Internet</h1>
+	<hr/>
+	<h3>FP EUSKADI</h3>
+		<title>Mi primera pagina web
+		</title>
+	</head> 
+	<body>
+		<ul><li><a href="https://ivac-eei.eus/es/">IVAC-EEI</a></li>
+		<li><a href="https://www.euskadi.eus/gobierno-vasco/fp-educacion/">Hezkuntza</a></li></ul>
+	</body>
+</html>

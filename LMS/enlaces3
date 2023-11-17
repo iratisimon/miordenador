@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head><h1>Enlaces mixtos</h1>
+	<hr/>
+	<h1>ÍNDICE</h1>
+		<title>Mi primera pagina web
+		</title>
+	</head> 
+	<body>
+		<a href="enlaces3.1.html#inicio">Pulse aquí para ir al inicio de la página.</a>
+		<br/><a href="enlaces3.1.html#medio">Pulse aquí para ir al medio de la página</a>
+		<br/><a href="enlaces3.1.html#final">Pulse aquí para ir al final de la página</a>
+	</body>
+</html>
